@@ -20,7 +20,7 @@ INTRODUCTION
     Key Features:
     
       Integrated Wired and Wireless connections
-      Once plugged into a target network, the Mini-Pwner can establish an SSH tunnel through the target network, or can be accessed by         wifi. In addition, the MiniPwner can be configured as a wifi sniffer and logger – wardriving in your pocket.
+      Once plugged into a target network, the Mini-Pwner can establish an SSH tunnel through the target network, or can be accessed by wifi. In addition, the MiniPwner can be configured as a wifi sniffer and logger – wardriving in your pocket.
       Low power consumption, no need to find a power outlet during the pen test.
       Multiple PenTesting Tools included
       tcpdump, nbtscan, netcat, nmap, kismet, karma, snort, aircrack-ng, ettercap-ng.. (Reverse shell, Reaver, WEP cracker, MDK3,             Password Sniffer, Network Sniffer, Wifi Nuke..) to name a few.
@@ -44,12 +44,16 @@ BODY
   Setup
   
   1 - Install OpenWRT
+  
   2 - Tor proxy and anonymizing setup
+  
   
   Tools
   
   3 - Analyzing with "Remote Wireshark Listener"
+  
   4 - Capacitive portal
+  
   5 - KMS Server
 
 
