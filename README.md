@@ -13,9 +13,9 @@ PRORROGO
   I needed a wireless access point with some network functions for home and I found this Chinese model at a good price in which OpenWRT   and some tools can be installed.
 
 
-INTRODUCTION
+   INTRODUCTION
 
-  Defined as penetration testing “drop box”. Can be inconspicuously plugged into a network and provide the penetration tester remote       access to that network. It’s made up of a portable router running OpenWrt piggy-backed onto a battery pack.
+      Defined as penetration testing “drop box”. Can be inconspicuously plugged into a network and provide the penetration tester remote       access to that network. It’s made up of a portable router running OpenWrt piggy-backed onto a battery pack.
 
     Key Features:
     
@@ -40,24 +40,18 @@ INTRODUCTION
 
 
     BODY
-
      Setup
-  
       1 - Install OpenWRT
-  
       2 - Tor proxy and anonymizing setup
   
   
-      Tools
-  
-     3 - Analyzing with "Remote Wireshark Listener"
-  
-     4 - Capacitive portal
-  
-     5 - KMS Server
+     Tools
+      3 - Analyzing with "Remote Wireshark Listener"
+      4 - Capacitive portal
+      5 - KMS Server
 
 
-    BIBLIOGRAPHY AND KNOWLEDGE BASE
+     BIBLIOGRAPHY AND KNOWLEDGE BASE
 
       https://technet.microsoft.com/en-us/library/ff793434.aspx
       https://wiki.openwrt.org/doc/howto/extroot 
