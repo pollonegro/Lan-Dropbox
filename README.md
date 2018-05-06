@@ -20,13 +20,15 @@ See WIKI for full information and instructions!
     Key Features:
     
       Integrated Wired and Wireless connections + 4GB storage
-      Can establish an SSH tunnel through the target network, or can be accessed by wifi.
+      Can establish an SSH tunnel through the target network, or can be accessed by wifi
       Can be configured as a wifi sniffer and logger (Wardriving)
-      Low power consumption, no need to find a power outlet during the pen test.
+      Network Intrusion Prevention System (NIPS) and Network Intrusion Detection System (NIDS)
+      Low power consumption, no need to find a power outlet during the pen test
       Multiple PenTesting Tools included:
       (tcpdump, nbtscan, netcat, nmap, kismet, karma, snort, aircrack-ng, ettercap-ng, 
-      reaver, WEP cracker, MDK3, Password & Network Sniffer, Wifi Nuke..) to name a few.
-      Can be easily carried in a pocket, hidden anywhere.
+      reaver, WEP cracker, MDK3, Password & Network Sniffer, Wifi Nuke..) to name a few
+      Can be easily carried in a pocket, hidden anywhere..
+      
 
     Use Cases:
     
