@@ -12,6 +12,7 @@ See WIKI for full information and instructions!
 
       I needed a wireless access point with some network functions for home and I found this Chinese model at a good price in which OpenWRT   and some tools can be installed.
 
+-
 
     INTRODUCTION
 
@@ -38,6 +39,8 @@ See WIKI for full information and instructions!
       Pivot box (reverse connection via SSH or OpenVPN)
       General network auditing, recon..
 
+-
+
 
     BODY
      Setup
@@ -49,6 +52,8 @@ See WIKI for full information and instructions!
       3 - Analyzing with "Remote Wireshark Listener"
       4 - Capacitive portal
       5 - KMS Server
+
+-
 
 
      BIBLIOGRAPHY AND KNOWLEDGE BASE
