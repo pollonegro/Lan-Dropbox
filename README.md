@@ -63,6 +63,7 @@ See WIKI for full information and instructions!
       http://www.rationallyparanoid.com/articles/tcpdump.html 
       https://www.bettercap.org/legacy/ 
       https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-platforms.50234/
+      https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
       KMS - cokebar
 
 
