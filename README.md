@@ -43,17 +43,15 @@ See WIKI for full information and instructions!
 
 
 - BODY
-
-     Setup
-      1 - Install OpenWRT
-      2 - Tor proxy and anonymizing setup
+      Setup
+       1 - Install OpenWRT
+       2 - Tor proxy and anonymizing setup
   
-  
-     Tools
-      3 - Analyzing with "Remote Wireshark Listener"
-      4 - Capacitive portal
-      5 - KMS Server
-      6 - 
+      Tools
+       3 - Analyzing with "Remote Wireshark Listener"
+       4 - Capacitive portal
+       5 - KMS Server
+       6 - 
 
 
 - BIBLIOGRAPHY AND KNOWLEDGE BASE
