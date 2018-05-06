@@ -16,7 +16,7 @@ See WIKI for full information and instructions!
 ### INTRODUCTION
    
 
-      Defined as penetration testing “drop box”. Multiples functions.
+      Defined as penetration testing “drop box”. Multiple functions.
 
     Key Features:
     
