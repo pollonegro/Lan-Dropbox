@@ -9,8 +9,8 @@ See WIKI for full information and instructions!
 
 ### PROLOGUE
 
-      I needed a wireless access point with some network functions for home.
-      I found this Chinese model at a good price in which OpenWRT and some tools can be installed.
+      I was looking for a wireless access point with some network functions for home.
+      I found this Chinese model at a good price in which OpenWRT and some security tools can be installed.
       
 
 ### INTRODUCTION
