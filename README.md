@@ -9,8 +9,16 @@ I needed a wireless access point with some network functions for home and I foun
 The Nexx WT3020H is a great OpenWRT device.
 
 400MHz RAMIPS CPU
+
 64MB RAM
+
 8 MB SPI flash
+
 USB A port
+
 dual 100/10t ethernet
+
 2.4GHz 802.11n MIMO 2T2R (300Mbit)
+
+
+
