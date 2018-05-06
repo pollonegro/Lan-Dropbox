@@ -66,6 +66,7 @@ See WIKI for full information and instructions!
       https://www.bettercap.org/legacy/ 
       https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-platforms.50234/
       https://github.com/tomacwrt/tomacwrt.github.io
+      https://wiki.openwrt.org/doc/howto/snort
       KMS - cokebar
 
 
