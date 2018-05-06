@@ -17,7 +17,6 @@ The Nexx WT3020H is a great OpenWRT device.
 USB A port
 
 dual 100/10t ethernet
-
 2.4GHz 802.11n MIMO 2T2R (300Mbit)
 
 
