@@ -16,13 +16,12 @@ See WIKI for full information and instructions!
 
     INTRODUCTION
 
-      Defined as penetration testing “drop box”. Can be inconspicuously plugged into a network and provide the penetration tester remote access to that network. 
-      It’s made up of a portable router running OpenWrt piggy-backed onto a battery pack.
+      Defined as penetration testing “drop box”. Multiples functions.
 
     Key Features:
     
-      Integrated Wired and Wireless connections
-      Once plugged into a target network, can establish an SSH tunnel through the target network, or can be accessed by wifi.
+      Integrated Wired and Wireless connections + 4GB storage
+      Can establish an SSH tunnel through the target network, or can be accessed by wifi.
       Can be configured as a wifi sniffer and logger (Wardriving)
       Low power consumption, no need to find a power outlet during the pen test.
       Multiple PenTesting Tools included (tcpdump, nbtscan, netcat, nmap, kismet, karma, snort, aircrack-ng, ettercap-ng.. 
@@ -37,7 +36,7 @@ See WIKI for full information and instructions!
       Phishing with captive portals (Evil Twin)
       Man In The Middle (MITM) SSL Proxy (Rogue AP)
       OpenVPN client
-      Microsoft 
+      Windows Key Management Server (KMS Emulated Server)
       Pivot box (reverse connection via SSH or OpenVPN)
       General network auditing, recon..
 
@@ -54,7 +53,7 @@ See WIKI for full information and instructions!
       3 - Analyzing with "Remote Wireshark Listener"
       4 - Capacitive portal
       5 - KMS Server
-
+      6 - 
 -
 
 
