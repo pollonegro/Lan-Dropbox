@@ -40,6 +40,7 @@ See WIKI for full information and instructions!
       OpenVPN client
       Windows Key Management Server (KMS Emulated Server)
       Pivot box (reverse connection via SSH or OpenVPN)
+      Personal Portable Security Systems (NIPS - NIDS)
       General network auditing, recon..
 
 
@@ -54,7 +55,7 @@ See WIKI for full information and instructions!
        4 - Capacitive portal
        5 - KMS Server
        6 - SWORD proyect
-       7 - 
+       7 - Snort 
 
 
  ### BIBLIOGRAPHY AND KNOWLEDGE BASE
