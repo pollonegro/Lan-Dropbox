@@ -6,6 +6,6 @@ I needed a wireless access point with some network functions for home and I foun
 ![](https://github.com/pollonegro/Lan-Dropbox/blob/master/img/1.png)
 
 
-
+See WIKI for full information and instructions!
 
 
