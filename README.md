@@ -8,13 +8,13 @@ See WIKI for full information and instructions!
 
    Index:
 
-    PRORROGO
+- PRORROGO
 
       I needed a wireless access point with some network functions for home and I found this Chinese model at a good price in which OpenWRT and some tools can be installed.
+      
 
--
-
-    INTRODUCTION
+- INTRODUCTION
+   
 
       Defined as penetration testing “drop box”. Multiples functions.
 
@@ -41,10 +41,9 @@ See WIKI for full information and instructions!
       Pivot box (reverse connection via SSH or OpenVPN)
       General network auditing, recon..
 
--
 
+- BODY
 
-    BODY
      Setup
       1 - Install OpenWRT
       2 - Tor proxy and anonymizing setup
@@ -55,10 +54,9 @@ See WIKI for full information and instructions!
       4 - Capacitive portal
       5 - KMS Server
       6 - 
--
 
 
-     BIBLIOGRAPHY AND KNOWLEDGE BASE
+- BIBLIOGRAPHY AND KNOWLEDGE BASE
 
       https://technet.microsoft.com/en-us/library/ff793434.aspx
       https://wiki.openwrt.org/doc/howto/extroot 
