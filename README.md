@@ -52,18 +52,18 @@ See WIKI for full information and instructions!
        3 - Analyzing with "Remote Wireshark Listener"
        4 - Capacitive portal
        5 - KMS Server
-       6 - 
+       6 - SWORD proyect
+       7 - 
 
 
 - BIBLIOGRAPHY AND KNOWLEDGE BASE
 
       https://technet.microsoft.com/en-us/library/ff793434.aspx
-      https://wiki.openwrt.org/doc/howto/extroot 
-      https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5             
+      https://wiki.openwrt.org/doc/howto/extroot              
       http://www.rationallyparanoid.com/articles/tcpdump.html 
       https://www.bettercap.org/legacy/ 
       https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-platforms.50234/
-      https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
+      https://github.com/tomacwrt/tomacwrt.github.io
       KMS - cokebar
 
 
