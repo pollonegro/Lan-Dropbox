@@ -10,21 +10,23 @@ See WIKI for full information and instructions!
 
     PRORROGO
 
-      I needed a wireless access point with some network functions for home and I found this Chinese model at a good price in which OpenWRT   and some tools can be installed.
+      I needed a wireless access point with some network functions for home and I found this Chinese model at a good price in which OpenWRT and some tools can be installed.
 
 -
 
     INTRODUCTION
 
-      Defined as penetration testing “drop box”. Can be inconspicuously plugged into a network and provide the penetration tester remote       access to that network. It’s made up of a portable router running OpenWrt piggy-backed onto a battery pack.
+      Defined as penetration testing “drop box”. Can be inconspicuously plugged into a network and provide the penetration tester remote access to that network. 
+      It’s made up of a portable router running OpenWrt piggy-backed onto a battery pack.
 
     Key Features:
     
       Integrated Wired and Wireless connections
-      Once plugged into a target network, the Mini-Pwner can establish an SSH tunnel through the target network, or can be accessed by wifi.
+      Once plugged into a target network, can establish an SSH tunnel through the target network, or can be accessed by wifi.
       Can be configured as a wifi sniffer and logger (Wardriving)
       Low power consumption, no need to find a power outlet during the pen test.
-      Multiple PenTesting Tools included (tcpdump, nbtscan, netcat, nmap, kismet, karma, snort, aircrack-ng, ettercap-ng.. (Reverse shell, Reaver, WEP cracker, MDK3, Password Sniffer, Network Sniffer, Wifi Nuke..) to name a few.
+      Multiple PenTesting Tools included (tcpdump, nbtscan, netcat, nmap, kismet, karma, snort, aircrack-ng, ettercap-ng.. 
+      (Reverse shell, Reaver, WEP cracker, MDK3, Password Sniffer, Network Sniffer, Wifi Nuke..) to name a few.
       Can be easily carried in a pocket, hidden behind a telephone, or hang from a jack by a short ethernet cable.
 
     Use Cases:
