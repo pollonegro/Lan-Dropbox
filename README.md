@@ -39,32 +39,32 @@ INTRODUCTION
       General network auditing, recon..
 
 
-BODY
+    BODY
 
-  Setup
+     Setup
   
-  1 - Install OpenWRT
+      1 - Install OpenWRT
   
-  2 - Tor proxy and anonymizing setup
+      2 - Tor proxy and anonymizing setup
   
   
-  Tools
+      Tools
   
-  3 - Analyzing with "Remote Wireshark Listener"
+     3 - Analyzing with "Remote Wireshark Listener"
   
-  4 - Capacitive portal
+     4 - Capacitive portal
   
-  5 - KMS Server
+     5 - KMS Server
 
 
-BIBLIOGRAPHY AND KNOWLEDGE BASE
+    BIBLIOGRAPHY AND KNOWLEDGE BASE
 
-  https://technet.microsoft.com/en-us/library/ff793434.aspx
-  https://wiki.openwrt.org/doc/howto/extroot 
-  https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5             
-  http://www.rationallyparanoid.com/articles/tcpdump.html 
-  https://www.bettercap.org/legacy/ 
-  KMS - cokebar
+      https://technet.microsoft.com/en-us/library/ff793434.aspx
+      https://wiki.openwrt.org/doc/howto/extroot 
+      https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5             
+      http://www.rationallyparanoid.com/articles/tcpdump.html 
+      https://www.bettercap.org/legacy/ 
+      KMS - cokebar
 
 
 See WIKI for full information and instructions!
