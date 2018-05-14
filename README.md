@@ -7,13 +7,13 @@
 See WIKI for full information and instructions!
 
 
-### PROLOGUE
+
 
       I was looking for a wireless access point with some network functions for home.
       I found this Chinese model at a good price in which OpenWRT and some security tools can be installed.
       
 
-### INTRODUCTION
+
    
 
       Defined as penetration testing “drop box”. Multiple functions.
@@ -45,7 +45,7 @@ See WIKI for full information and instructions!
       General network auditing, recon..
 
 
-### BODY
+
 
       Setup
        1 - Install OpenWRT
@@ -59,7 +59,7 @@ See WIKI for full information and instructions!
        7 - Snort 
 
 
- ### BIBLIOGRAPHY AND KNOWLEDGE BASE
+
 
       https://technet.microsoft.com/en-us/library/ff793434.aspx
       https://wiki.openwrt.org/doc/howto/extroot              
